@@ -1,1 +1,1 @@
-# NET5CoreApiGateway - Ocelot
+# NET5 Core ApiGateway - Ocelot
